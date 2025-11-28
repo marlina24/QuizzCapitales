@@ -1,0 +1,15 @@
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/bin/Debug/net7.0/QuizzCapitales
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/bin/Debug/net7.0/QuizzCapitales.deps.json
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/bin/Debug/net7.0/QuizzCapitales.runtimeconfig.json
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/bin/Debug/net7.0/QuizzCapitales.dll
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/bin/Debug/net7.0/QuizzCapitales.pdb
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.csproj.AssemblyReference.cache
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.AssemblyInfoInputs.cache
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.AssemblyInfo.cs
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.csproj.CoreCompileInputs.cache
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.dll
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/refint/QuizzCapitales.dll
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.pdb
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/QuizzCapitales.genruntimeconfig.cache
+/Users/victormarlina/Desktop/project_cs/QuizzCapitales/QuizzCapitales/obj/Debug/net7.0/ref/QuizzCapitales.dll
