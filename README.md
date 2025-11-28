@@ -18,5 +18,28 @@ Incrémente le score en cas de bonne réponse
 Affiche le score total
 Propose de rejouer
 
+
+
+
+            +----------------------+
+          |      Program.cs      |
+          +----------+-----------+
+                     |
+                     v
+          +----------------------+
+          |       Quizz.cs       |
+          |  - Questions         |
+          |  - Score             |
+          |  - Rejouabilité     |
+          +----------+-----------+
+                     |
+                     v
+          +----------------------+
+          |   Méthodes appelées  |
+          |  Jouer() / PoserQ()  |
+          +----------------------+
+
+
 Marlina Victor
 Étudiante en BTS SIO – option SLAM.
+
